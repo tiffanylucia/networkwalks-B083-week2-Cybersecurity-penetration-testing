@@ -46,7 +46,7 @@ WHOIS was used to obtain publicly available domain registration information.
 The output included the domain name, registrar information, registration dates, domain status information and HostGator name servers.
 
 ### Evidence
-![WHOIS](evidence/01-whois-domain-registration.png)
+
 
 ---
 
