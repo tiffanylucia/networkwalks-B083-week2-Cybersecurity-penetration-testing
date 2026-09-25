@@ -1,0 +1,12 @@
+```text
+week2-penetration-testing-network-reconnaissance
+│
+├── README.md
+│
+└── evidence
+    ├── 01-whois-domain-registration.png
+    ├── 02-whatweb-technology-fingerprinting.png
+    ├── 03-nslookup-dns-resolution.png
+    ├── 04-curl-http-headers.png
+    ├── 05-wafw00f-waf-detection.png
+    └── 06-dnsrecon-dns-enumeration.png
