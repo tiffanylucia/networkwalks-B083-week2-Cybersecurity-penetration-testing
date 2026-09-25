@@ -46,7 +46,7 @@ WHOIS was used to obtain publicly available domain registration information.
 The output included the domain name, registrar information, registration dates, domain status information and HostGator name servers.
 
 ### Evidence
-![]()
+![](Screenshot_2026-09-24_02_48_56.png)
 
 
 ---
@@ -65,7 +65,7 @@ WhatWeb was used to fingerprint technologies exposed by the website.
 The result identified technologies including Apache, Bootstrap, WordPress 7.1.2, WP Download Manager 3.3.58 and HTML5. It also displayed the IP address `192.232.216.135`.
 
 ### Evidence
-![WhatWeb](evidence/02-whatweb-technology-fingerprinting.png)
+![](Screenshot_2026-09-24_02_58_34.png)
 
 ---
 
@@ -88,7 +88,7 @@ Address: 192.232.216.135
 The screenshot shows `8.8.8.8` as the DNS server.
 
 ### Evidence
-![Nslookup](evidence/03-nslookup-dns-resolution.png)
+![](Screenshot_2026-09-24_03_01_19.png)
 
 ---
 
@@ -106,7 +106,7 @@ Curl was used to inspect HTTP response headers.
 The response returned `HTTP/2 200` and exposed HTTP response headers and WordPress-related links.
 
 ### Evidence
-![Curl](evidence/04-curl-http-headers.png)
+![](Screenshot_2026-09-24_03_05_57.png)
 
 ---
 
@@ -128,7 +128,7 @@ ModSecurity (SpiderLabs)
 ```
 
 ### Evidence
-![Wafw00f](evidence/05-wafw00f-waf-detection.png)
+![](Screenshot_2026-09-24_03_12_30.png)
 
 ---
 
@@ -150,7 +150,7 @@ The output included NS, MX, TXT and SRV information and reported:
 ```
 
 ### Evidence
-![DNSRecon](evidence/06-dnsrecon-dns-enumeration.png)
+![](Screenshot_2026-09-24_03_16_17.png)
 
 ---
 
